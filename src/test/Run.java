@@ -1,6 +1,5 @@
 package test;
 
-import com.mythread.MyThread;
 
 public class Run {
     public static void main(String[] args) throws InterruptedException {
